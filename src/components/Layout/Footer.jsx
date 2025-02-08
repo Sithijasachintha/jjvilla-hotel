@@ -11,9 +11,9 @@ export default function Footer() {
             <Phone className="w-4 h-4 mr-2" aria-hidden="true" />
             <span>+94 72 413 9408</span>
           </a>
-          <a href="mailto:info@jjvilla.com" className="flex items-center justify-center hover:text-accent transition-colors">
+          <a href="mailto:jjvilla190@gmail.com" className="flex items-center justify-center hover:text-accent transition-colors">
             <Mail className="w-4 h-4 mr-2" aria-hidden="true" />
-            <span>info@jjvilla.com</span>
+            <span>jjvilla190@gmail.com</span>
           </a>
           <p className="flex items-center justify-center">
             <MapPin className="w-4 h-4 mr-2 flex-shrink-0" aria-hidden="true" />

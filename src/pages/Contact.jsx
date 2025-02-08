@@ -14,8 +14,8 @@ const contactInfo = [
   {
     icon: <Mail className="w-6 h-6" />,
     title: "Email",
-    content: "info@jjvilla.com",
-    link: "mailto:info@jjvilla.com",
+    content: "jjvilla190@gmail.com",
+    link: "mailto:jjvilla190@gmail.com",
   },
   {
     icon: <MapPin className="w-6 h-6" />,

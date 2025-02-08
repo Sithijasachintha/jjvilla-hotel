@@ -66,8 +66,8 @@ export default function Home() {
       <section className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1920&q=80"
-            alt="JJ Villa hero view with ocean waves"
+            src="IMG_7059.webp"
+            alt="JJ Villa hero view"
             className="w-full h-full object-cover lazyload"
           />
           <div className="absolute inset-0 bg-black/40" />
@@ -115,7 +115,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/501724509.jpg?k=4d03017deab5ec96bd57ff295862820302f3dc028df19441feabda41167d557b&o=&hp=1"
+                src="IMG_7071.webp"
                 alt="About JJ Villa"
                 className="rounded-lg shadow-lg lazyload"
               />

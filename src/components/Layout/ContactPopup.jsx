@@ -60,11 +60,11 @@ export default function ContactPopup({ onClose }) {
           <div className="flex items-center space-x-3 p-3 bg-gray-100 rounded-lg">
             <Mail className="w-6 h-6 text-red-500" />
             <a
-              href="mailto:info@jjvilla.com"
+              href="mailto:jjvilla190@gmail.com"
               className="text-gray-800 font-medium hover:underline"
               aria-label="Send us an email at info@jjvilla.com"
             >
-              Email: info@jjvilla.com
+              Email: jjvilla190@gmail.com
             </a>
           </div>
         </div>

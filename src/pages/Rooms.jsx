@@ -140,7 +140,7 @@ export default function Rooms() {
             >
               Book Now
             </a>
-            <a href="mailto:info@hotel.com" className="flex items-center text-primary text-lg font-semibold hover:underline">
+            <a href="mailto:jjvilla190@gmail.com" className="flex items-center text-primary text-lg font-semibold hover:underline">
               <Mail className="w-5 h-5 mr-2" /> Email Us
             </a>
             <a href="tel:+94724139408" className="flex items-center text-primary text-lg font-semibold hover:underline">
