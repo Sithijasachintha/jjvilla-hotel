@@ -82,15 +82,15 @@ export default function Contact() {
 
     emailjs
       .send(
-        "service_jg376cw", // EmailJS Service ID
-        "template_l4qgb6s", // EmailJS Template ID
+        "service_dbu7041", // EmailJS Service ID
+        "template_f8lefti", // EmailJS Template ID
         {
           user_name: formData.name,
           user_email: formData.email,
           subject: formData.subject,
           message: formData.message,
         },
-        "AL0EZnnziTZMPYKHg" // EmailJS Public Key
+        "Gxn-bUGCHgIseGveL" // EmailJS Public Key
       )
       .then(
         (response) => {
