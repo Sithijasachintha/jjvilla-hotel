@@ -26,7 +26,7 @@ export default function Header() {
 
   const handleCallClick = () => {
     if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-      window.location.href = "tel:+94702575370";
+      window.location.href = "tel:+94724139408";
     } else {
       setIsPopupOpen(true);
     }
